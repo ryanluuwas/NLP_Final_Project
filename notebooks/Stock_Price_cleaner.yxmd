@@ -1,0 +1,2090 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Adam\Desktop\company_stock.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>company_stock.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Adj Close" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close2" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close3" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close4" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close5" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close6" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close7" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close8" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_2" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_3" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_4" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_5" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_6" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_7" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_8" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_9" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_10" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_11" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_12" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_13" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_14" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_15" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_16" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_17" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_18" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_19" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_20" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_21" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_22" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_23" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_24" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_25" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_26" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_27" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_28" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_29" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_30" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_31" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_32" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_33" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_34" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_35" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_36" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_37" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_38" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_39" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_40" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_41" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_42" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_43" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_44" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_45" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_46" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_47" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_48" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_49" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_50" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_51" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_52" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_53" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_54" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_55" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_56" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_57" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_58" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_59" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_60" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_61" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_62" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_63" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_64" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_65" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_66" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_67" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_68" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_69" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_70" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_71" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_72" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_73" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_74" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_75" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_76" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_77" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_78" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_79" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_80" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_81" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_82" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_83" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_84" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_85" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_86" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_87" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_88" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_89" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_90" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_91" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_92" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_93" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_94" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_95" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_96" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_97" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_98" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_99" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_100" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_101" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_102" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_103" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_104" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_105" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_106" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_107" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_108" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_109" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_110" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_111" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_112" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_113" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_114" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_115" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_116" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_117" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_118" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_119" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_120" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_121" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_122" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_123" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_124" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_125" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_126" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_127" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_128" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_129" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_130" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_131" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_132" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_133" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_134" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_135" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_136" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_137" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_138" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_139" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_140" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_141" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_142" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_143" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_144" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_145" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_146" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_147" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_148" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_149" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_150" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_151" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_152" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_153" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_154" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_155" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_156" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_157" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_158" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_159" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_160" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_161" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_162" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_163" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_164" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_165" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_166" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_167" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_168" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_169" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_170" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_171" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_172" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_173" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_174" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_175" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_176" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_177" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_178" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_179" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_180" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_181" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_182" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_183" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_184" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_185" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_186" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_187" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_188" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_189" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_190" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_191" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_192" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_193" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_194" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_195" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_196" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_197" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_198" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_199" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_200" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_201" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_202" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_203" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_204" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_205" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_206" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_207" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_208" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_209" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_210" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_211" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_212" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_213" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_214" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_215" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_216" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_217" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_218" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_219" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_220" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_221" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_222" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_223" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_224" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_225" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_226" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_227" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_228" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_229" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_230" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_231" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_232" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_233" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_234" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_235" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_236" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_237" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_238" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_239" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_240" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_241" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_242" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_243" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_244" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_245" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_246" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_247" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_248" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_249" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_250" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_251" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_252" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_253" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_254" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_255" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_256" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_257" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_258" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_259" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_260" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_261" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_262" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_263" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_264" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_265" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_266" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_267" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_268" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_269" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_270" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_271" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_272" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_273" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_274" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_275" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_276" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_277" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_278" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_279" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_280" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_281" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_282" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_283" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_284" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_285" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_286" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_287" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_288" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_289" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_290" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_291" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_292" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_293" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_294" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_295" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_296" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_297" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_298" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_299" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_300" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_301" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_302" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_303" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_304" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_305" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_306" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_307" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_308" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_309" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_310" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_311" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_312" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_313" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_314" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_315" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_316" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_317" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_318" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_319" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_320" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_321" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_322" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_323" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_324" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_325" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_326" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_327" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_328" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_329" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_330" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_331" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_332" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_333" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_334" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_335" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_336" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_337" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_338" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_339" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_340" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_341" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_342" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_343" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_344" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_345" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_346" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_347" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_348" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_349" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_350" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_351" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_352" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_353" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_354" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_355" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_356" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_357" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_358" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_359" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_360" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_361" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_362" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_363" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_364" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_365" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_366" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_367" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_368" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_369" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_370" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_371" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_372" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_373" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_374" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_375" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_376" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_377" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_378" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_379" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_380" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_381" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_382" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_383" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_384" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_385" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_386" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_387" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_388" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_389" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_390" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_391" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_392" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_393" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_394" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_395" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_396" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_397" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_398" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_399" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_400" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_401" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_402" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_403" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_404" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_405" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_406" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_407" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_408" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_409" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_410" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_411" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_412" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_413" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_414" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_415" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_416" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_417" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_418" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_419" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_420" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_421" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_422" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_423" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_424" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_425" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_426" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_427" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_428" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_429" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_430" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_431" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_432" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_433" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_434" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_435" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_436" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_437" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_438" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_439" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_440" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_441" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_442" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_443" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_444" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_445" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_446" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_447" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_448" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_449" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_450" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_451" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_452" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Adj Close9_453" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Date" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="726" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Adam\Documents\Company_Stock_Price_Clean.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Company_Stock_Price_Clean.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="234" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Format>MM/dd/yy</Format>
+          <OutputFieldName>Date2</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Date From:
+MM/dd/yy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Date" selected="False" />
+            <SelectField field="Date2" selected="True" rename="Date" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="426" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="Adj Close" />
+            <Field name="Adj Close2" />
+            <Field name="Adj Close3" />
+            <Field name="Adj Close4" />
+            <Field name="Adj Close5" />
+            <Field name="Adj Close6" />
+            <Field name="Adj Close7" />
+            <Field name="Adj Close8" />
+            <Field name="Adj Close9" />
+            <Field name="Adj Close9_2" />
+            <Field name="Adj Close9_3" />
+            <Field name="Adj Close9_4" />
+            <Field name="Adj Close9_5" />
+            <Field name="Adj Close9_6" />
+            <Field name="Adj Close9_7" />
+            <Field name="Adj Close9_8" />
+            <Field name="Adj Close9_9" />
+            <Field name="Adj Close9_10" />
+            <Field name="Adj Close9_11" />
+            <Field name="Adj Close9_12" />
+            <Field name="Adj Close9_13" />
+            <Field name="Adj Close9_14" />
+            <Field name="Adj Close9_15" />
+            <Field name="Adj Close9_16" />
+            <Field name="Adj Close9_17" />
+            <Field name="Adj Close9_18" />
+            <Field name="Adj Close9_19" />
+            <Field name="Adj Close9_20" />
+            <Field name="Adj Close9_21" />
+            <Field name="Adj Close9_22" />
+            <Field name="Adj Close9_23" />
+            <Field name="Adj Close9_24" />
+            <Field name="Adj Close9_25" />
+            <Field name="Adj Close9_26" />
+            <Field name="Adj Close9_27" />
+            <Field name="Adj Close9_28" />
+            <Field name="Adj Close9_29" />
+            <Field name="Adj Close9_30" />
+            <Field name="Adj Close9_31" />
+            <Field name="Adj Close9_32" />
+            <Field name="Adj Close9_33" />
+            <Field name="Adj Close9_34" />
+            <Field name="Adj Close9_35" />
+            <Field name="Adj Close9_36" />
+            <Field name="Adj Close9_37" />
+            <Field name="Adj Close9_38" />
+            <Field name="Adj Close9_39" />
+            <Field name="Adj Close9_40" />
+            <Field name="Adj Close9_41" />
+            <Field name="Adj Close9_42" />
+            <Field name="Adj Close9_43" />
+            <Field name="Adj Close9_44" />
+            <Field name="Adj Close9_45" />
+            <Field name="Adj Close9_46" />
+            <Field name="Adj Close9_47" />
+            <Field name="Adj Close9_48" />
+            <Field name="Adj Close9_49" />
+            <Field name="Adj Close9_50" />
+            <Field name="Adj Close9_51" />
+            <Field name="Adj Close9_52" />
+            <Field name="Adj Close9_53" />
+            <Field name="Adj Close9_54" />
+            <Field name="Adj Close9_55" />
+            <Field name="Adj Close9_56" />
+            <Field name="Adj Close9_57" />
+            <Field name="Adj Close9_58" />
+            <Field name="Adj Close9_59" />
+            <Field name="Adj Close9_60" />
+            <Field name="Adj Close9_61" />
+            <Field name="Adj Close9_62" />
+            <Field name="Adj Close9_63" />
+            <Field name="Adj Close9_64" />
+            <Field name="Adj Close9_65" />
+            <Field name="Adj Close9_66" />
+            <Field name="Adj Close9_67" />
+            <Field name="Adj Close9_68" />
+            <Field name="Adj Close9_69" />
+            <Field name="Adj Close9_70" />
+            <Field name="Adj Close9_71" />
+            <Field name="Adj Close9_72" />
+            <Field name="Adj Close9_73" />
+            <Field name="Adj Close9_74" />
+            <Field name="Adj Close9_75" />
+            <Field name="Adj Close9_76" />
+            <Field name="Adj Close9_77" />
+            <Field name="Adj Close9_78" />
+            <Field name="Adj Close9_79" />
+            <Field name="Adj Close9_80" />
+            <Field name="Adj Close9_81" />
+            <Field name="Adj Close9_82" />
+            <Field name="Adj Close9_83" />
+            <Field name="Adj Close9_84" />
+            <Field name="Adj Close9_85" />
+            <Field name="Adj Close9_86" />
+            <Field name="Adj Close9_87" />
+            <Field name="Adj Close9_88" />
+            <Field name="Adj Close9_89" />
+            <Field name="Adj Close9_90" />
+            <Field name="Adj Close9_91" />
+            <Field name="Adj Close9_92" />
+            <Field name="Adj Close9_93" />
+            <Field name="Adj Close9_94" />
+            <Field name="Adj Close9_95" />
+            <Field name="Adj Close9_96" />
+            <Field name="Adj Close9_97" />
+            <Field name="Adj Close9_98" />
+            <Field name="Adj Close9_99" />
+            <Field name="Adj Close9_100" />
+            <Field name="Adj Close9_101" />
+            <Field name="Adj Close9_102" />
+            <Field name="Adj Close9_103" />
+            <Field name="Adj Close9_104" />
+            <Field name="Adj Close9_105" />
+            <Field name="Adj Close9_106" />
+            <Field name="Adj Close9_107" />
+            <Field name="Adj Close9_108" />
+            <Field name="Adj Close9_109" />
+            <Field name="Adj Close9_110" />
+            <Field name="Adj Close9_111" />
+            <Field name="Adj Close9_112" />
+            <Field name="Adj Close9_113" />
+            <Field name="Adj Close9_114" />
+            <Field name="Adj Close9_115" />
+            <Field name="Adj Close9_116" />
+            <Field name="Adj Close9_117" />
+            <Field name="Adj Close9_118" />
+            <Field name="Adj Close9_119" />
+            <Field name="Adj Close9_120" />
+            <Field name="Adj Close9_121" />
+            <Field name="Adj Close9_122" />
+            <Field name="Adj Close9_123" />
+            <Field name="Adj Close9_124" />
+            <Field name="Adj Close9_125" />
+            <Field name="Adj Close9_126" />
+            <Field name="Adj Close9_127" />
+            <Field name="Adj Close9_128" />
+            <Field name="Adj Close9_129" />
+            <Field name="Adj Close9_130" />
+            <Field name="Adj Close9_131" />
+            <Field name="Adj Close9_132" />
+            <Field name="Adj Close9_133" />
+            <Field name="Adj Close9_134" />
+            <Field name="Adj Close9_135" />
+            <Field name="Adj Close9_136" />
+            <Field name="Adj Close9_137" />
+            <Field name="Adj Close9_138" />
+            <Field name="Adj Close9_139" />
+            <Field name="Adj Close9_140" />
+            <Field name="Adj Close9_141" />
+            <Field name="Adj Close9_142" />
+            <Field name="Adj Close9_143" />
+            <Field name="Adj Close9_144" />
+            <Field name="Adj Close9_145" />
+            <Field name="Adj Close9_146" />
+            <Field name="Adj Close9_147" />
+            <Field name="Adj Close9_148" />
+            <Field name="Adj Close9_149" />
+            <Field name="Adj Close9_150" />
+            <Field name="Adj Close9_151" />
+            <Field name="Adj Close9_152" />
+            <Field name="Adj Close9_153" />
+            <Field name="Adj Close9_154" />
+            <Field name="Adj Close9_155" />
+            <Field name="Adj Close9_156" />
+            <Field name="Adj Close9_157" />
+            <Field name="Adj Close9_158" />
+            <Field name="Adj Close9_159" />
+            <Field name="Adj Close9_160" />
+            <Field name="Adj Close9_161" />
+            <Field name="Adj Close9_162" />
+            <Field name="Adj Close9_163" />
+            <Field name="Adj Close9_164" />
+            <Field name="Adj Close9_165" />
+            <Field name="Adj Close9_166" />
+            <Field name="Adj Close9_167" />
+            <Field name="Adj Close9_168" />
+            <Field name="Adj Close9_169" />
+            <Field name="Adj Close9_170" />
+            <Field name="Adj Close9_171" />
+            <Field name="Adj Close9_172" />
+            <Field name="Adj Close9_173" />
+            <Field name="Adj Close9_174" />
+            <Field name="Adj Close9_175" />
+            <Field name="Adj Close9_176" />
+            <Field name="Adj Close9_177" />
+            <Field name="Adj Close9_178" />
+            <Field name="Adj Close9_179" />
+            <Field name="Adj Close9_180" />
+            <Field name="Adj Close9_181" />
+            <Field name="Adj Close9_182" />
+            <Field name="Adj Close9_183" />
+            <Field name="Adj Close9_184" />
+            <Field name="Adj Close9_185" />
+            <Field name="Adj Close9_186" />
+            <Field name="Adj Close9_187" />
+            <Field name="Adj Close9_188" />
+            <Field name="Adj Close9_189" />
+            <Field name="Adj Close9_190" />
+            <Field name="Adj Close9_191" />
+            <Field name="Adj Close9_192" />
+            <Field name="Adj Close9_193" />
+            <Field name="Adj Close9_194" />
+            <Field name="Adj Close9_195" />
+            <Field name="Adj Close9_196" />
+            <Field name="Adj Close9_197" />
+            <Field name="Adj Close9_198" />
+            <Field name="Adj Close9_199" />
+            <Field name="Adj Close9_200" />
+            <Field name="Adj Close9_201" />
+            <Field name="Adj Close9_202" />
+            <Field name="Adj Close9_203" />
+            <Field name="Adj Close9_204" />
+            <Field name="Adj Close9_205" />
+            <Field name="Adj Close9_206" />
+            <Field name="Adj Close9_207" />
+            <Field name="Adj Close9_208" />
+            <Field name="Adj Close9_209" />
+            <Field name="Adj Close9_210" />
+            <Field name="Adj Close9_211" />
+            <Field name="Adj Close9_212" />
+            <Field name="Adj Close9_213" />
+            <Field name="Adj Close9_214" />
+            <Field name="Adj Close9_215" />
+            <Field name="Adj Close9_216" />
+            <Field name="Adj Close9_217" />
+            <Field name="Adj Close9_218" />
+            <Field name="Adj Close9_219" />
+            <Field name="Adj Close9_220" />
+            <Field name="Adj Close9_221" />
+            <Field name="Adj Close9_222" />
+            <Field name="Adj Close9_223" />
+            <Field name="Adj Close9_224" />
+            <Field name="Adj Close9_225" />
+            <Field name="Adj Close9_226" />
+            <Field name="Adj Close9_227" />
+            <Field name="Adj Close9_228" />
+            <Field name="Adj Close9_229" />
+            <Field name="Adj Close9_230" />
+            <Field name="Adj Close9_231" />
+            <Field name="Adj Close9_232" />
+            <Field name="Adj Close9_233" />
+            <Field name="Adj Close9_234" />
+            <Field name="Adj Close9_235" />
+            <Field name="Adj Close9_236" />
+            <Field name="Adj Close9_237" />
+            <Field name="Adj Close9_238" />
+            <Field name="Adj Close9_239" />
+            <Field name="Adj Close9_240" />
+            <Field name="Adj Close9_241" />
+            <Field name="Adj Close9_242" />
+            <Field name="Adj Close9_243" />
+            <Field name="Adj Close9_244" />
+            <Field name="Adj Close9_245" />
+            <Field name="Adj Close9_246" />
+            <Field name="Adj Close9_247" />
+            <Field name="Adj Close9_248" />
+            <Field name="Adj Close9_249" />
+            <Field name="Adj Close9_250" />
+            <Field name="Adj Close9_251" />
+            <Field name="Adj Close9_252" />
+            <Field name="Adj Close9_253" />
+            <Field name="Adj Close9_254" />
+            <Field name="Adj Close9_255" />
+            <Field name="Adj Close9_256" />
+            <Field name="Adj Close9_257" />
+            <Field name="Adj Close9_258" />
+            <Field name="Adj Close9_259" />
+            <Field name="Adj Close9_260" />
+            <Field name="Adj Close9_261" />
+            <Field name="Adj Close9_262" />
+            <Field name="Adj Close9_263" />
+            <Field name="Adj Close9_264" />
+            <Field name="Adj Close9_265" />
+            <Field name="Adj Close9_266" />
+            <Field name="Adj Close9_267" />
+            <Field name="Adj Close9_268" />
+            <Field name="Adj Close9_269" />
+            <Field name="Adj Close9_270" />
+            <Field name="Adj Close9_271" />
+            <Field name="Adj Close9_272" />
+            <Field name="Adj Close9_273" />
+            <Field name="Adj Close9_274" />
+            <Field name="Adj Close9_275" />
+            <Field name="Adj Close9_276" />
+            <Field name="Adj Close9_277" />
+            <Field name="Adj Close9_278" />
+            <Field name="Adj Close9_279" />
+            <Field name="Adj Close9_280" />
+            <Field name="Adj Close9_281" />
+            <Field name="Adj Close9_282" />
+            <Field name="Adj Close9_283" />
+            <Field name="Adj Close9_284" />
+            <Field name="Adj Close9_285" />
+            <Field name="Adj Close9_286" />
+            <Field name="Adj Close9_287" />
+            <Field name="Adj Close9_288" />
+            <Field name="Adj Close9_289" />
+            <Field name="Adj Close9_290" />
+            <Field name="Adj Close9_291" />
+            <Field name="Adj Close9_292" />
+            <Field name="Adj Close9_293" />
+            <Field name="Adj Close9_294" />
+            <Field name="Adj Close9_295" />
+            <Field name="Adj Close9_296" />
+            <Field name="Adj Close9_297" />
+            <Field name="Adj Close9_298" />
+            <Field name="Adj Close9_299" />
+            <Field name="Adj Close9_300" />
+            <Field name="Adj Close9_301" />
+            <Field name="Adj Close9_302" />
+            <Field name="Adj Close9_303" />
+            <Field name="Adj Close9_304" />
+            <Field name="Adj Close9_305" />
+            <Field name="Adj Close9_306" />
+            <Field name="Adj Close9_307" />
+            <Field name="Adj Close9_308" />
+            <Field name="Adj Close9_309" />
+            <Field name="Adj Close9_310" />
+            <Field name="Adj Close9_311" />
+            <Field name="Adj Close9_312" />
+            <Field name="Adj Close9_313" />
+            <Field name="Adj Close9_314" />
+            <Field name="Adj Close9_315" />
+            <Field name="Adj Close9_316" />
+            <Field name="Adj Close9_317" />
+            <Field name="Adj Close9_318" />
+            <Field name="Adj Close9_319" />
+            <Field name="Adj Close9_320" />
+            <Field name="Adj Close9_321" />
+            <Field name="Adj Close9_322" />
+            <Field name="Adj Close9_323" />
+            <Field name="Adj Close9_324" />
+            <Field name="Adj Close9_325" />
+            <Field name="Adj Close9_326" />
+            <Field name="Adj Close9_327" />
+            <Field name="Adj Close9_328" />
+            <Field name="Adj Close9_329" />
+            <Field name="Adj Close9_330" />
+            <Field name="Adj Close9_331" />
+            <Field name="Adj Close9_332" />
+            <Field name="Adj Close9_333" />
+            <Field name="Adj Close9_334" />
+            <Field name="Adj Close9_335" />
+            <Field name="Adj Close9_336" />
+            <Field name="Adj Close9_337" />
+            <Field name="Adj Close9_338" />
+            <Field name="Adj Close9_339" />
+            <Field name="Adj Close9_340" />
+            <Field name="Adj Close9_341" />
+            <Field name="Adj Close9_342" />
+            <Field name="Adj Close9_343" />
+            <Field name="Adj Close9_344" />
+            <Field name="Adj Close9_345" />
+            <Field name="Adj Close9_346" />
+            <Field name="Adj Close9_347" />
+            <Field name="Adj Close9_348" />
+            <Field name="Adj Close9_349" />
+            <Field name="Adj Close9_350" />
+            <Field name="Adj Close9_351" />
+            <Field name="Adj Close9_352" />
+            <Field name="Adj Close9_353" />
+            <Field name="Adj Close9_354" />
+            <Field name="Adj Close9_355" />
+            <Field name="Adj Close9_356" />
+            <Field name="Adj Close9_357" />
+            <Field name="Adj Close9_358" />
+            <Field name="Adj Close9_359" />
+            <Field name="Adj Close9_360" />
+            <Field name="Adj Close9_361" />
+            <Field name="Adj Close9_362" />
+            <Field name="Adj Close9_363" />
+            <Field name="Adj Close9_364" />
+            <Field name="Adj Close9_365" />
+            <Field name="Adj Close9_366" />
+            <Field name="Adj Close9_367" />
+            <Field name="Adj Close9_368" />
+            <Field name="Adj Close9_369" />
+            <Field name="Adj Close9_370" />
+            <Field name="Adj Close9_371" />
+            <Field name="Adj Close9_372" />
+            <Field name="Adj Close9_373" />
+            <Field name="Adj Close9_374" />
+            <Field name="Adj Close9_375" />
+            <Field name="Adj Close9_376" />
+            <Field name="Adj Close9_377" />
+            <Field name="Adj Close9_378" />
+            <Field name="Adj Close9_379" />
+            <Field name="Adj Close9_380" />
+            <Field name="Adj Close9_381" />
+            <Field name="Adj Close9_382" />
+            <Field name="Adj Close9_383" />
+            <Field name="Adj Close9_384" />
+            <Field name="Adj Close9_385" />
+            <Field name="Adj Close9_386" />
+            <Field name="Adj Close9_387" />
+            <Field name="Adj Close9_388" />
+            <Field name="Adj Close9_389" />
+            <Field name="Adj Close9_390" />
+            <Field name="Adj Close9_391" />
+            <Field name="Adj Close9_392" />
+            <Field name="Adj Close9_393" />
+            <Field name="Adj Close9_394" />
+            <Field name="Adj Close9_395" />
+            <Field name="Adj Close9_396" />
+            <Field name="Adj Close9_397" />
+            <Field name="Adj Close9_398" />
+            <Field name="Adj Close9_399" />
+            <Field name="Adj Close9_400" />
+            <Field name="Adj Close9_401" />
+            <Field name="Adj Close9_402" />
+            <Field name="Adj Close9_403" />
+            <Field name="Adj Close9_404" />
+            <Field name="Adj Close9_405" />
+            <Field name="Adj Close9_406" />
+            <Field name="Adj Close9_407" />
+            <Field name="Adj Close9_408" />
+            <Field name="Adj Close9_409" />
+            <Field name="Adj Close9_410" />
+            <Field name="Adj Close9_411" />
+            <Field name="Adj Close9_412" />
+            <Field name="Adj Close9_413" />
+            <Field name="Adj Close9_414" />
+            <Field name="Adj Close9_415" />
+            <Field name="Adj Close9_416" />
+            <Field name="Adj Close9_417" />
+            <Field name="Adj Close9_418" />
+            <Field name="Adj Close9_419" />
+            <Field name="Adj Close9_420" />
+            <Field name="Adj Close9_421" />
+            <Field name="Adj Close9_422" />
+            <Field name="Adj Close9_423" />
+            <Field name="Adj Close9_424" />
+            <Field name="Adj Close9_425" />
+            <Field name="Adj Close9_426" />
+            <Field name="Adj Close9_427" />
+            <Field name="Adj Close9_428" />
+            <Field name="Adj Close9_429" />
+            <Field name="Adj Close9_430" />
+            <Field name="Adj Close9_431" />
+            <Field name="Adj Close9_432" />
+            <Field name="Adj Close9_433" />
+            <Field name="Adj Close9_434" />
+            <Field name="Adj Close9_435" />
+            <Field name="Adj Close9_436" />
+            <Field name="Adj Close9_437" />
+            <Field name="Adj Close9_438" />
+            <Field name="Adj Close9_439" />
+            <Field name="Adj Close9_440" />
+            <Field name="Adj Close9_441" />
+            <Field name="Adj Close9_442" />
+            <Field name="Adj Close9_443" />
+            <Field name="Adj Close9_444" />
+            <Field name="Adj Close9_445" />
+            <Field name="Adj Close9_446" />
+            <Field name="Adj Close9_447" />
+            <Field name="Adj Close9_448" />
+            <Field name="Adj Close9_449" />
+            <Field name="Adj Close9_450" />
+            <Field name="Adj Close9_451" />
+            <Field name="Adj Close9_452" />
+            <Field name="Adj Close9_453" />
+            <Field name="*Unknown" />
+            <Field name="Date" selected="False" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="MSFT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AAPL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AMZN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GOOGL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GOOG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JNJ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="V" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JPM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UNH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="INTC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VZ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="T" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PFE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MRK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NFLX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LLY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MDT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ABBV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ACN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ORCL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NKE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IBM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NEE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UNP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AMT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TXN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DHR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AVGO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WFC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GILD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LIN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HON" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LMT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="C" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="QCOM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SBUX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RTX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LOW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MMM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FIS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CHTR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CVS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MDLZ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="INTU" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SPGI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BDX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VRTX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NOW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ANTM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UPS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CCI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PLD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="D" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AGN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ADP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CME" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AMD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FISV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SYK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ZTS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CAT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ISRG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DUK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EQIX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TJX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BKNG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TGT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BLK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AXP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="REGN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CSX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ILMN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BIIB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ATVI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MMC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NOC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HUM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GPN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="APD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ECL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ICE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BSX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="USB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MU" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TFC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PNC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ITW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AMAT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SHW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KMB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NEM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="COP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NSC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AON" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BAX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PGR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ADSK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MCO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ADI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AEP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ROP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CNC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LRCX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DLR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TMUS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GIS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EXC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EMR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SRE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ROST" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ETN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SBAC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PSX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EBAY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="XEL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DXCM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="COF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ALL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WBA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FDX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ORLY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KMI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PSA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EOG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CTSH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="STZ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HCA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SYY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MET" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="APH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WEC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TRV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="INFO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TEL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KLAC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VLO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="YUM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VRSK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MSCI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AZO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MNST" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AIG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="A" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AFL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WLTW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IQV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ZBH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IDXX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ES" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SLB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CMI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SNPS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CLX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PEG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PCAR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CMG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ALXN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MCK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ROK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PRU" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MAR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CDNS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TWTR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JCI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PPG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WMB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ANSS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MSI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DLTR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BLL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FAST" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PAYX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MPC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="F" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MCHP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HLT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="STT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RMD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="XLNX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CERN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AWK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HPQ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AVB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VRSN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ADM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TDG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FLT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EQR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PPL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MKC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CTAS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AME" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WELL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EIX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DTE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ETR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HSY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SWKS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KEYS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VFC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MTD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="O" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FTNT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SWK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ARE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KHC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DHI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="APTV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EFX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TSN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SPG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FRC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CPRT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AMP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MKTX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FTV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CHD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AEE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ALGN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RSG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="INCY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GLW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BBY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AJG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LUV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NTRS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LEN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AKAM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TFX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LYB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CMS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LVS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CAG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="K" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ESS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CTXS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AMCR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CAH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ODFL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CDW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DGX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DFS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="COO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PXD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="OKE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MXIM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WST" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KSU" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TTWO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DAL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CBRE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KMX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VMC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MTB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IFF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FITB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EVRG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ABC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DPZ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HIG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DOV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PAYC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TSCO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HOLX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ULTA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ZBRA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LDOS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="STE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TIF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VTR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JKHY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GWW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NDAQ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MAA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HRL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MAS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FCX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GRMN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NUE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DRE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WAT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WDC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FMC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BXP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SJM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EXR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PEAK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MLM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GPC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="XYL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="OXY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ATO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ANET" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SYF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="OMC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KEY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NLOK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="STX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IEX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="QRVO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="J" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CBOE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VAR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UDR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WAB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SIVB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CXO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PKI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CHRW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EXPE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CFG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HAL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PFG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="XRAY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="URI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ETFC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JBHT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ABMD" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CTL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DRI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AAP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PKG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HBAN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HAS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="EMN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AVY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ALLE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NRG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CINF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HSIC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CNP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MGM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MYL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RCL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PHM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RJF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="L" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HST" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PNW" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UHS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LKQ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FBHS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WU" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AES" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FFIV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WRB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CPB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HII" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ALB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WYNN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DISH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JNPR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="COG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LNC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WHR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PRGO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="WRK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IRM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SNA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TAP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TXT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DVA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FANG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LYV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IPG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DISCK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PNR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BWA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AOS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CF" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CCL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UAL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AIZ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RHI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FLIR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="VNO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ZION" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ROL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FRT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MHK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AIV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="CMA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IPGP" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="BEN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PWR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PBCT" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NWL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NLSN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SEE" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NOV" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KIM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HFC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MRO" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DVN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NWSA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="APA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="AAL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="MOS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ALK" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DXC" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LEG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="RL" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="TPR" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HBI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="PVH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="LB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="SLG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HOG" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NCLH" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="DISCA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FLS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="HRB" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UNM" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="FTI" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="KSS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="XRX" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="IVZ" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="GPS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="ADS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="JWN" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UAA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="UA" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="NWS" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="COTY" size="254" source="File: C:\Users\Adam\Desktop\company_stock.csv" type="V_String" />
+            <Field name="Date" source="DateTime: To MM/dd/yy" type="Date" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="534" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Date" />
+          </KeyFields>
+          <DataFields>
+            <Field field="MSFT" selected="True" />
+            <Field field="AAPL" selected="True" />
+            <Field field="AMZN" selected="True" />
+            <Field field="FB" selected="True" />
+            <Field field="GOOGL" selected="True" />
+            <Field field="GOOG" selected="True" />
+            <Field field="JNJ" selected="True" />
+            <Field field="V" selected="True" />
+            <Field field="PG" selected="True" />
+            <Field field="JPM" selected="True" />
+            <Field field="UNH" selected="True" />
+            <Field field="INTC" selected="True" />
+            <Field field="HD" selected="True" />
+            <Field field="MA" selected="True" />
+            <Field field="VZ" selected="True" />
+            <Field field="T" selected="True" />
+            <Field field="PFE" selected="True" />
+            <Field field="MRK" selected="True" />
+            <Field field="NFLX" selected="True" />
+            <Field field="LLY" selected="True" />
+            <Field field="MDT" selected="True" />
+            <Field field="ABBV" selected="True" />
+            <Field field="ACN" selected="True" />
+            <Field field="ORCL" selected="True" />
+            <Field field="PM" selected="True" />
+            <Field field="NKE" selected="True" />
+            <Field field="IBM" selected="True" />
+            <Field field="NEE" selected="True" />
+            <Field field="UNP" selected="True" />
+            <Field field="AMT" selected="True" />
+            <Field field="TXN" selected="True" />
+            <Field field="DHR" selected="True" />
+            <Field field="AVGO" selected="True" />
+            <Field field="WFC" selected="True" />
+            <Field field="GILD" selected="True" />
+            <Field field="LIN" selected="True" />
+            <Field field="HON" selected="True" />
+            <Field field="LMT" selected="True" />
+            <Field field="C" selected="True" />
+            <Field field="QCOM" selected="True" />
+            <Field field="SBUX" selected="True" />
+            <Field field="RTX" selected="True" />
+            <Field field="LOW" selected="True" />
+            <Field field="MMM" selected="True" />
+            <Field field="FIS" selected="True" />
+            <Field field="CHTR" selected="True" />
+            <Field field="CVS" selected="True" />
+            <Field field="MDLZ" selected="True" />
+            <Field field="INTU" selected="True" />
+            <Field field="SPGI" selected="True" />
+            <Field field="BDX" selected="True" />
+            <Field field="VRTX" selected="True" />
+            <Field field="NOW" selected="True" />
+            <Field field="ANTM" selected="True" />
+            <Field field="CI" selected="True" />
+            <Field field="MO" selected="True" />
+            <Field field="BA" selected="True" />
+            <Field field="UPS" selected="True" />
+            <Field field="CCI" selected="True" />
+            <Field field="PLD" selected="True" />
+            <Field field="D" selected="True" />
+            <Field field="AGN" selected="True" />
+            <Field field="ADP" selected="True" />
+            <Field field="CME" selected="True" />
+            <Field field="AMD" selected="True" />
+            <Field field="FISV" selected="True" />
+            <Field field="SYK" selected="True" />
+            <Field field="ZTS" selected="True" />
+            <Field field="CAT" selected="True" />
+            <Field field="ISRG" selected="True" />
+            <Field field="DUK" selected="True" />
+            <Field field="EQIX" selected="True" />
+            <Field field="CL" selected="True" />
+            <Field field="TJX" selected="True" />
+            <Field field="BKNG" selected="True" />
+            <Field field="TGT" selected="True" />
+            <Field field="BLK" selected="True" />
+            <Field field="GS" selected="True" />
+            <Field field="AXP" selected="True" />
+            <Field field="SO" selected="True" />
+            <Field field="REGN" selected="True" />
+            <Field field="CB" selected="True" />
+            <Field field="CSX" selected="True" />
+            <Field field="ILMN" selected="True" />
+            <Field field="BIIB" selected="True" />
+            <Field field="ATVI" selected="True" />
+            <Field field="MMC" selected="True" />
+            <Field field="NOC" selected="True" />
+            <Field field="HUM" selected="True" />
+            <Field field="GPN" selected="True" />
+            <Field field="APD" selected="True" />
+            <Field field="ECL" selected="True" />
+            <Field field="ICE" selected="True" />
+            <Field field="BSX" selected="True" />
+            <Field field="USB" selected="True" />
+            <Field field="MS" selected="True" />
+            <Field field="MU" selected="True" />
+            <Field field="TFC" selected="True" />
+            <Field field="PNC" selected="True" />
+            <Field field="ITW" selected="True" />
+            <Field field="AMAT" selected="True" />
+            <Field field="SHW" selected="True" />
+            <Field field="KMB" selected="True" />
+            <Field field="DE" selected="True" />
+            <Field field="NEM" selected="True" />
+            <Field field="COP" selected="True" />
+            <Field field="NSC" selected="True" />
+            <Field field="DG" selected="True" />
+            <Field field="AON" selected="True" />
+            <Field field="EW" selected="True" />
+            <Field field="BAX" selected="True" />
+            <Field field="PGR" selected="True" />
+            <Field field="ADSK" selected="True" />
+            <Field field="MCO" selected="True" />
+            <Field field="EL" selected="True" />
+            <Field field="WM" selected="True" />
+            <Field field="ADI" selected="True" />
+            <Field field="AEP" selected="True" />
+            <Field field="ROP" selected="True" />
+            <Field field="CNC" selected="True" />
+            <Field field="LRCX" selected="True" />
+            <Field field="DLR" selected="True" />
+            <Field field="TMUS" selected="True" />
+            <Field field="GIS" selected="True" />
+            <Field field="DD" selected="True" />
+            <Field field="EXC" selected="True" />
+            <Field field="EMR" selected="True" />
+            <Field field="SRE" selected="True" />
+            <Field field="ROST" selected="True" />
+            <Field field="EA" selected="True" />
+            <Field field="ETN" selected="True" />
+            <Field field="SBAC" selected="True" />
+            <Field field="PSX" selected="True" />
+            <Field field="GD" selected="True" />
+            <Field field="EBAY" selected="True" />
+            <Field field="XEL" selected="True" />
+            <Field field="GM" selected="True" />
+            <Field field="DXCM" selected="True" />
+            <Field field="COF" selected="True" />
+            <Field field="ALL" selected="True" />
+            <Field field="BK" selected="True" />
+            <Field field="WBA" selected="True" />
+            <Field field="FDX" selected="True" />
+            <Field field="ORLY" selected="True" />
+            <Field field="KMI" selected="True" />
+            <Field field="PSA" selected="True" />
+            <Field field="EOG" selected="True" />
+            <Field field="CTSH" selected="True" />
+            <Field field="STZ" selected="True" />
+            <Field field="HCA" selected="True" />
+            <Field field="SYY" selected="True" />
+            <Field field="MET" selected="True" />
+            <Field field="APH" selected="True" />
+            <Field field="WEC" selected="True" />
+            <Field field="TRV" selected="True" />
+            <Field field="INFO" selected="True" />
+            <Field field="TEL" selected="True" />
+            <Field field="KLAC" selected="True" />
+            <Field field="VLO" selected="True" />
+            <Field field="YUM" selected="True" />
+            <Field field="VRSK" selected="True" />
+            <Field field="MSCI" selected="True" />
+            <Field field="AZO" selected="True" />
+            <Field field="MNST" selected="True" />
+            <Field field="AIG" selected="True" />
+            <Field field="A" selected="True" />
+            <Field field="AFL" selected="True" />
+            <Field field="WLTW" selected="True" />
+            <Field field="IQV" selected="True" />
+            <Field field="ZBH" selected="True" />
+            <Field field="IDXX" selected="True" />
+            <Field field="ES" selected="True" />
+            <Field field="SLB" selected="True" />
+            <Field field="CMI" selected="True" />
+            <Field field="SNPS" selected="True" />
+            <Field field="CLX" selected="True" />
+            <Field field="PEG" selected="True" />
+            <Field field="KR" selected="True" />
+            <Field field="PCAR" selected="True" />
+            <Field field="CMG" selected="True" />
+            <Field field="ALXN" selected="True" />
+            <Field field="MCK" selected="True" />
+            <Field field="ROK" selected="True" />
+            <Field field="PRU" selected="True" />
+            <Field field="MAR" selected="True" />
+            <Field field="CDNS" selected="True" />
+            <Field field="TWTR" selected="True" />
+            <Field field="JCI" selected="True" />
+            <Field field="PPG" selected="True" />
+            <Field field="WMB" selected="True" />
+            <Field field="ANSS" selected="True" />
+            <Field field="MSI" selected="True" />
+            <Field field="DLTR" selected="True" />
+            <Field field="BLL" selected="True" />
+            <Field field="FE" selected="True" />
+            <Field field="FAST" selected="True" />
+            <Field field="PAYX" selected="True" />
+            <Field field="PH" selected="True" />
+            <Field field="MPC" selected="True" />
+            <Field field="F" selected="True" />
+            <Field field="MCHP" selected="True" />
+            <Field field="HLT" selected="True" />
+            <Field field="STT" selected="True" />
+            <Field field="RMD" selected="True" />
+            <Field field="XLNX" selected="True" />
+            <Field field="CERN" selected="True" />
+            <Field field="AWK" selected="True" />
+            <Field field="HPQ" selected="True" />
+            <Field field="AVB" selected="True" />
+            <Field field="VRSN" selected="True" />
+            <Field field="ADM" selected="True" />
+            <Field field="TDG" selected="True" />
+            <Field field="FLT" selected="True" />
+            <Field field="EQR" selected="True" />
+            <Field field="PPL" selected="True" />
+            <Field field="MKC" selected="True" />
+            <Field field="CTAS" selected="True" />
+            <Field field="AME" selected="True" />
+            <Field field="WELL" selected="True" />
+            <Field field="EIX" selected="True" />
+            <Field field="DTE" selected="True" />
+            <Field field="ETR" selected="True" />
+            <Field field="HSY" selected="True" />
+            <Field field="SWKS" selected="True" />
+            <Field field="KEYS" selected="True" />
+            <Field field="VFC" selected="True" />
+            <Field field="MTD" selected="True" />
+            <Field field="O" selected="True" />
+            <Field field="FTNT" selected="True" />
+            <Field field="SWK" selected="True" />
+            <Field field="ARE" selected="True" />
+            <Field field="KHC" selected="True" />
+            <Field field="DHI" selected="True" />
+            <Field field="APTV" selected="True" />
+            <Field field="EFX" selected="True" />
+            <Field field="TSN" selected="True" />
+            <Field field="SPG" selected="True" />
+            <Field field="FRC" selected="True" />
+            <Field field="CPRT" selected="True" />
+            <Field field="AMP" selected="True" />
+            <Field field="MKTX" selected="True" />
+            <Field field="FTV" selected="True" />
+            <Field field="CHD" selected="True" />
+            <Field field="AEE" selected="True" />
+            <Field field="ALGN" selected="True" />
+            <Field field="RSG" selected="True" />
+            <Field field="INCY" selected="True" />
+            <Field field="GLW" selected="True" />
+            <Field field="BBY" selected="True" />
+            <Field field="AJG" selected="True" />
+            <Field field="LUV" selected="True" />
+            <Field field="LH" selected="True" />
+            <Field field="NTRS" selected="True" />
+            <Field field="LEN" selected="True" />
+            <Field field="AKAM" selected="True" />
+            <Field field="TFX" selected="True" />
+            <Field field="LYB" selected="True" />
+            <Field field="CMS" selected="True" />
+            <Field field="LVS" selected="True" />
+            <Field field="CAG" selected="True" />
+            <Field field="K" selected="True" />
+            <Field field="ESS" selected="True" />
+            <Field field="CTXS" selected="True" />
+            <Field field="AMCR" selected="True" />
+            <Field field="CAH" selected="True" />
+            <Field field="WY" selected="True" />
+            <Field field="ODFL" selected="True" />
+            <Field field="CDW" selected="True" />
+            <Field field="DGX" selected="True" />
+            <Field field="DFS" selected="True" />
+            <Field field="COO" selected="True" />
+            <Field field="PXD" selected="True" />
+            <Field field="OKE" selected="True" />
+            <Field field="MXIM" selected="True" />
+            <Field field="WST" selected="True" />
+            <Field field="KSU" selected="True" />
+            <Field field="TTWO" selected="True" />
+            <Field field="DAL" selected="True" />
+            <Field field="CBRE" selected="True" />
+            <Field field="KMX" selected="True" />
+            <Field field="VMC" selected="True" />
+            <Field field="MTB" selected="True" />
+            <Field field="IFF" selected="True" />
+            <Field field="FITB" selected="True" />
+            <Field field="EVRG" selected="True" />
+            <Field field="ABC" selected="True" />
+            <Field field="DPZ" selected="True" />
+            <Field field="HIG" selected="True" />
+            <Field field="DOV" selected="True" />
+            <Field field="PAYC" selected="True" />
+            <Field field="TSCO" selected="True" />
+            <Field field="HOLX" selected="True" />
+            <Field field="ULTA" selected="True" />
+            <Field field="ZBRA" selected="True" />
+            <Field field="LDOS" selected="True" />
+            <Field field="STE" selected="True" />
+            <Field field="IP" selected="True" />
+            <Field field="TIF" selected="True" />
+            <Field field="BR" selected="True" />
+            <Field field="VTR" selected="True" />
+            <Field field="JKHY" selected="True" />
+            <Field field="GWW" selected="True" />
+            <Field field="NDAQ" selected="True" />
+            <Field field="MAA" selected="True" />
+            <Field field="HRL" selected="True" />
+            <Field field="MAS" selected="True" />
+            <Field field="FCX" selected="True" />
+            <Field field="GRMN" selected="True" />
+            <Field field="NUE" selected="True" />
+            <Field field="DRE" selected="True" />
+            <Field field="WAT" selected="True" />
+            <Field field="WDC" selected="True" />
+            <Field field="FMC" selected="True" />
+            <Field field="BXP" selected="True" />
+            <Field field="SJM" selected="True" />
+            <Field field="EXR" selected="True" />
+            <Field field="PEAK" selected="True" />
+            <Field field="MLM" selected="True" />
+            <Field field="GPC" selected="True" />
+            <Field field="XYL" selected="True" />
+            <Field field="OXY" selected="True" />
+            <Field field="ATO" selected="True" />
+            <Field field="ANET" selected="True" />
+            <Field field="SYF" selected="True" />
+            <Field field="OMC" selected="True" />
+            <Field field="KEY" selected="True" />
+            <Field field="NLOK" selected="True" />
+            <Field field="STX" selected="True" />
+            <Field field="IEX" selected="True" />
+            <Field field="QRVO" selected="True" />
+            <Field field="J" selected="True" />
+            <Field field="CBOE" selected="True" />
+            <Field field="VAR" selected="True" />
+            <Field field="UDR" selected="True" />
+            <Field field="WAB" selected="True" />
+            <Field field="CE" selected="True" />
+            <Field field="SIVB" selected="True" />
+            <Field field="RF" selected="True" />
+            <Field field="CXO" selected="True" />
+            <Field field="PKI" selected="True" />
+            <Field field="CHRW" selected="True" />
+            <Field field="EXPE" selected="True" />
+            <Field field="IT" selected="True" />
+            <Field field="CFG" selected="True" />
+            <Field field="HAL" selected="True" />
+            <Field field="PFG" selected="True" />
+            <Field field="XRAY" selected="True" />
+            <Field field="URI" selected="True" />
+            <Field field="ETFC" selected="True" />
+            <Field field="JBHT" selected="True" />
+            <Field field="ABMD" selected="True" />
+            <Field field="CTL" selected="True" />
+            <Field field="DRI" selected="True" />
+            <Field field="AAP" selected="True" />
+            <Field field="PKG" selected="True" />
+            <Field field="HBAN" selected="True" />
+            <Field field="HAS" selected="True" />
+            <Field field="EMN" selected="True" />
+            <Field field="AVY" selected="True" />
+            <Field field="ALLE" selected="True" />
+            <Field field="NRG" selected="True" />
+            <Field field="CINF" selected="True" />
+            <Field field="HSIC" selected="True" />
+            <Field field="CNP" selected="True" />
+            <Field field="NI" selected="True" />
+            <Field field="MGM" selected="True" />
+            <Field field="MYL" selected="True" />
+            <Field field="RCL" selected="True" />
+            <Field field="PHM" selected="True" />
+            <Field field="RJF" selected="True" />
+            <Field field="LW" selected="True" />
+            <Field field="L" selected="True" />
+            <Field field="HST" selected="True" />
+            <Field field="PNW" selected="True" />
+            <Field field="UHS" selected="True" />
+            <Field field="LKQ" selected="True" />
+            <Field field="FBHS" selected="True" />
+            <Field field="WU" selected="True" />
+            <Field field="AES" selected="True" />
+            <Field field="FFIV" selected="True" />
+            <Field field="WRB" selected="True" />
+            <Field field="CPB" selected="True" />
+            <Field field="RE" selected="True" />
+            <Field field="HII" selected="True" />
+            <Field field="ALB" selected="True" />
+            <Field field="WYNN" selected="True" />
+            <Field field="DISH" selected="True" />
+            <Field field="JNPR" selected="True" />
+            <Field field="COG" selected="True" />
+            <Field field="LNC" selected="True" />
+            <Field field="GL" selected="True" />
+            <Field field="WHR" selected="True" />
+            <Field field="PRGO" selected="True" />
+            <Field field="WRK" selected="True" />
+            <Field field="IRM" selected="True" />
+            <Field field="SNA" selected="True" />
+            <Field field="TAP" selected="True" />
+            <Field field="TXT" selected="True" />
+            <Field field="DVA" selected="True" />
+            <Field field="FANG" selected="True" />
+            <Field field="LYV" selected="True" />
+            <Field field="IPG" selected="True" />
+            <Field field="DISCK" selected="True" />
+            <Field field="PNR" selected="True" />
+            <Field field="BWA" selected="True" />
+            <Field field="AOS" selected="True" />
+            <Field field="CF" selected="True" />
+            <Field field="CCL" selected="True" />
+            <Field field="UAL" selected="True" />
+            <Field field="AIZ" selected="True" />
+            <Field field="RHI" selected="True" />
+            <Field field="FLIR" selected="True" />
+            <Field field="VNO" selected="True" />
+            <Field field="ZION" selected="True" />
+            <Field field="ROL" selected="True" />
+            <Field field="FRT" selected="True" />
+            <Field field="MHK" selected="True" />
+            <Field field="AIV" selected="True" />
+            <Field field="CMA" selected="True" />
+            <Field field="IPGP" selected="True" />
+            <Field field="BEN" selected="True" />
+            <Field field="PWR" selected="True" />
+            <Field field="PBCT" selected="True" />
+            <Field field="NWL" selected="True" />
+            <Field field="NLSN" selected="True" />
+            <Field field="SEE" selected="True" />
+            <Field field="NOV" selected="True" />
+            <Field field="KIM" selected="True" />
+            <Field field="HFC" selected="True" />
+            <Field field="MRO" selected="True" />
+            <Field field="DVN" selected="True" />
+            <Field field="NWSA" selected="True" />
+            <Field field="APA" selected="True" />
+            <Field field="AAL" selected="True" />
+            <Field field="MOS" selected="True" />
+            <Field field="ALK" selected="True" />
+            <Field field="DXC" selected="True" />
+            <Field field="LEG" selected="True" />
+            <Field field="RL" selected="True" />
+            <Field field="TPR" selected="True" />
+            <Field field="HBI" selected="True" />
+            <Field field="PVH" selected="True" />
+            <Field field="LB" selected="True" />
+            <Field field="SLG" selected="True" />
+            <Field field="HOG" selected="True" />
+            <Field field="NCLH" selected="True" />
+            <Field field="DISCA" selected="True" />
+            <Field field="FLS" selected="True" />
+            <Field field="HRB" selected="True" />
+            <Field field="UNM" selected="True" />
+            <Field field="FTI" selected="True" />
+            <Field field="KSS" selected="True" />
+            <Field field="XRX" selected="True" />
+            <Field field="IVZ" selected="True" />
+            <Field field="GPS" selected="True" />
+            <Field field="ADS" selected="True" />
+            <Field field="JWN" selected="True" />
+            <Field field="UAA" selected="True" />
+            <Field field="UA" selected="True" />
+            <Field field="NWS" selected="True" />
+            <Field field="COTY" selected="True" />
+            <Field field="Date" selected="False" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="630" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name" selected="True" rename="Ticker" />
+            <SelectField field="Value" selected="True" rename="Adj_Close" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>NLP Project</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
